@@ -1,0 +1,19 @@
+{
+  "name": "ppi2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuiMatos2004/ppi2.git"
+  },
+  "author": "guilherme de matos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuiMatos2004/ppi2/issues"
+  },
+  "homepage": "https://github.com/GuiMatos2004/ppi2#readme",
+  "description": ""
+}
